@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "me.light.learning"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "me.light.learning",
+    "packageFolder": "me/light/learning",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzQ0MmIwNjExODE5MmQzNmE1NTM3OTVhMDk5ZDgxZmViODA3ZGI2OTk3YWJjNTY2NDc4YTNhMTNlODc1NmU0M2UxMTM0OTc5MTQ5OGZhOTkxMTM2MTJiNmIyNzU3YWY0NWUyOTk4Njk3YjUyMThjZmJkYWFlMzkzMTZmMGJiOWQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true
+  }
+}
